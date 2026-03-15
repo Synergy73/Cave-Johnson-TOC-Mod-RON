@@ -1,7 +1,7 @@
 ﻿# Cave-Johnson-TOC-Mod-RON
 Made by Synergy73
 
-Currently 17 voicelines modified
+Currently 17 voicelines modified, Full subtitles included
 
 Modified Voicelines:
 
