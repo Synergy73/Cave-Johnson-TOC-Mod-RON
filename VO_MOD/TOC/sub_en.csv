@@ -1,13 +1,12 @@
 Key,Dialogue,Context
 Prefix_0,"It's Cave, Prime. From Earth One...",
-Prefix_1,"Cave Johnson here...",
+Prefix_1,Cave Johnson here...,
 Prefix_2,"Hey, It's Cave...",
 Prefix_3,"Cave here, Chariots...",
-Prefix_4,"It's Cave...",
-Prefix_5,"Cave again...",
+Prefix_4,It's Cave...,
+Prefix_5,"Cave again...,
 Prefix_6,"Woah, Chariots Chariots...",
-Prefix_7,"(Heavenly Noises) Cave Johnson here...",
-Prefix_8,"High ground, this is TOC...",
+Prefix_7,(Heavenly Noises) Cave Johnson here...,
 ,,
 AcknowledgeGeneric_0,Copy that.,
 AcknowledgeGeneric_1,Roger.,
@@ -34,9 +33,9 @@ AcknowledgeGeneric_21,"Copy, entry team.",
 AcknowledgeGeneric_22,TOC copies all.,
 AcknowledgeGeneric_23,Acknowledged.,
 ,,
-StartGeneric_0,You're here because you followed the Hobo signs, So! Who's ready to scrounge around for some science?,
-StartGeneric_1,You are clear to proceed.,
-StartGeneric_2,Move in and be careful.,
+StartGeneric_0,"You're here because you followed the Hobo signs, So! Who's ready to scrounge around for some science?",
+StartGeneric_1,"Break 1-9, Big Box Cave Johnson here, hauling a freight shaker with a load of cold ones in the wagon down to Texarkana. Got 28 hours to get this done so I'm puttin' the hammer down.",
+StartGeneric_2,"Welcome to your first test, I'm your overseer: Cave Johnson.",
 StartGeneric_3,Move in.,
 StartGeneric_4,Complete your objectives.,
 StartGeneric_5,You are good to go.,
@@ -57,8 +56,8 @@ StartGeneric_19,We have the greenlight.,
 StartGeneric_20,You have the greenlight. ,
 StartGeneric_21,You are clear for entry.,
 ,,
-Arrest_0,Trailers incoming. Proceed with caution.,
-Arrest_1,Trailers en-route.,
+Arrest_0,Shake the bushes and give me your 10-20.,
+Arrest_1,"(Tap Tap) Hey, You, Chariots Chariots Keep testing.",
 Arrest_2,Notifying trailers.,
 Arrest_3,Trailers incoming.,
 Arrest_4,Great work. Keep going.,
@@ -218,7 +217,7 @@ CompleteGood_15,"Good job everyone, roll in.",
 CompleteGood_16,"Score one for the good guys. Good work, everyone.",
 CompleteGood_17,"That's how we get it done, folks. Roll in for debrief.",
 ,,
-CompleteNeutral_0,"That's a wrap. Pack it in, everyone. ",(TOC is neutral with the team's performance)
+CompleteNeutral_0,"Anyways, the good news is: we're ready to start phase 2, figuring out a way to bring you back.",(TOC is neutral with the team's performance)
 CompleteNeutral_1,"Head on over to debrief everyone, mission is complete.",(TOC is neutral with the team's performance)
 CompleteNeutral_2,"Mission complete, report to center. That's a wrap.",(TOC is neutral with the team's performance)
 CompleteNeutral_3,Situation is under control. Mission complete.,(TOC is neutral with the team's performance)
@@ -232,7 +231,7 @@ CompleteNeutral_10,"Situation is defused, no further threats.",(TOC is neutral w
 CompleteNeutral_11,"Mission is complete, threat is defused.",(TOC is neutral with the team's performance)
 ,,
 CompleteBad_0,"Yes, You. Box your stuff. Out the front door. Parking Lot. Car. Goodbye.",(TOC is unhappy with the team's performance)
-CompleteBad_1,"You performed your duties to the absolute bare minimum today. Report to debrief, that's a wrap.",(TOC is unhappy with the team's performance)
+CompleteBad_1,"Find your alternate self, steal his stuff, put it in a box, and if theres a parking lot, walk the box out to it because YOU'RE FIRED.",(TOC is unhappy with the team's performance)
 CompleteBad_2,Might I remind you that how you perform in the field reflects on the entire force. Think about that in debrief today. Roll in.,(TOC is unhappy with the team's performance)
 CompleteBad_3,This can't be the example we're setting for the rest of the force from now on. That's a wrap.,(TOC is unhappy with the team's performance)
 CompleteBad_4,Mission complete... Though it seemed more like sheer luck today than training. ,(TOC is unhappy with the team's performance)
@@ -261,7 +260,7 @@ Failed_13,"It's over, entry team. Roll in.",
 ,,
 ROEViolate_0,"Hah! I like you're style. You make up your own rules, just like me.",
 ROEViolate_1,"Meow. Meow Meow Meow Meow, Meow. Meow Meow Meow Meow Meow. Meow.",
-ROEViolate_2,"This is not a run and gun operation, be careful!",
+ROEViolate_2,(Cave and Dark Cave Laughing),
 ROEViolate_3,"You are being actively monitored, remember your ROE!",
 ROEViolate_4,"You are being actively monitored, remember your use of force!",
 ROEViolate_5,You're endangering this operation. Watch yourselves.,
@@ -310,9 +309,9 @@ BarricadedSuspectsStart_7,The suspects are refusing to come out or negotiate. Yo
 BarricadedSuspectsStart_8,"Suspects have taken refuge in the area and are refusing to cooperate. Move in, remember your use of force, and secure the area.",
 BarricadedSuspectsStart_9,"Suspects have taken refuge in the area and are refusing to cooperate. Move in, remember your use of force, and secure the area.",
 ,,
-RaidStart_0,"The allegorical threat level on this one is through the roof.",
-RaidStart_1,Our negotiator has just lost contact with the suspects. They are angry and volatile. You are go for entry.,
-RaidStart_2,We no longer have control of negotiations. You are cleared to move and secure the premises.,
+RaidStart_0,The allegorical threat level on this one is through the roof.,
+RaidStart_1,"Chariots Chariots Chariots, Dark Cave here listen: you find the Money-verse, you bring it to me, I'll take care of you.",
+RaidStart_2,"Remember, Money-verse, Dark Cave, Asparagus, Lots of it, 'nuf said.",
 RaidStart_3,Suspects are refusing to negotiate. You are clear to move in.,
 RaidStart_4,Negotiations have fallen apart. Move to secure the premises. Suspects are highly volatile.,
 RaidStart_5,Our negotiator has just lost contact with the suspects. They are angry and volatile. You are go for entry.,

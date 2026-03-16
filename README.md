@@ -5,9 +5,12 @@ Currently 17 voicelines modified, Full subtitles included
 
 Modified Voicelines:
 
+ - Arrest_0
+ - Arrest_1
  - BombThreatHurry_0
  - Complete_0
  - CompleteBad_0
+ - CompleteNeutral_0
  - HostageRescueStart_0
  - Prefix_0
  - Prefix_1
@@ -18,7 +21,13 @@ Modified Voicelines:
  - Prefix_6
  - Prefix_7
  - RaidStart_0
+ - RaidStart_1
+ - RaidStart_2
  - ROEViolate_0
  - ROEViolate_1
+ - ROEViolate_2
  - StartGeneric_0
+ - StartGeneric_1
+ - StartGeneric_2
  - Tower_IntroTOCStatic_1
+ - Interact_Tower_JammerIntro_0
